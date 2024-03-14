@@ -1,7 +1,6 @@
 ! Title: Coolhabit Custom
-! Description: Text Description 1
-! Version: 0.0.01
-! Updated: 2024-01-01T01:401:01+00:00
+! Description: Text Description 2
+! Updated: 2024-02-01T01:401:01+00:00
 ! Homepage: https://raw.githubusercontent.com/Coolhabit/test-filter/main/filter.txt
 
 @@||gismeteo.ru^
