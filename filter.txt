@@ -1,0 +1,17 @@
+! Title: Coolhabit Custom
+! Description: Text Description 1
+! Version: 0.0.01
+! Updated: 2024-01-01T01:401:01+00:00
+! Homepage: https://raw.githubusercontent.com/Coolhabit/test-filter/main/filter.txt
+
+@@||gismeteo.ru^
+||vk.com^
+||tutu.ru^
+||dexerto.com^
+||ok.ru^
+
+!#if adguard_ext_chromium
+example.org#%#//scriptlet('set-constant', 'test0', '123')
+!#else
+example.org#%#//scriptlet('set-constant', 'test0', '666')
+!#endif
