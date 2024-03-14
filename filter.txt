@@ -1,5 +1,6 @@
 ! Title: Coolhabit Custom
-! Description: Text Description 4
+! Description: Text Description 5
+! Version: 0.0.04
 ! Updated: 2024-03-01T01:401:01+00:00
 ! Homepage: https://raw.githubusercontent.com/Coolhabit/test-filter/main/filter.txt
 
